@@ -1,6 +1,6 @@
 ## Table of Contents
 
-* [Overview](#overview)
+* [Goal of this Project](#goal-of-this-project)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
@@ -8,10 +8,9 @@
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
+## Goal of the Project
 
-## Overview
-
-A website to track the stray cats on UH Manoa's campus in order to help provide them with the veterinary care and any other assistance they need. 
+The goal of this project is to address the many stray cats on UH Manoa's campus. "Meow Mapper" will allow users to track cats and see which have been fed/provided with veterinary care and which have not. 
 
 
 ## Deployment
@@ -33,8 +32,9 @@ This page is where users can share pictures of the cats they see around campus.
 ![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1023.jpg?raw=true)
 
 
-
 ## Community Feedback
+
+We would love to hear from our users! Please feel free to contact us with ideas for improvement. 
 
 
 ## Developer Guide
@@ -43,6 +43,7 @@ This page is where users can share pictures of the cats they see around campus.
 ## Development History
 
 
-
 ## Contact Us
+
+
 
