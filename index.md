@@ -1,4 +1,4 @@
-## Table of contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Deployment](#deployment)
@@ -23,8 +23,11 @@ A live deployment is available at https://meow-mapper.github.io/
 
 ### Landing Page
 
+The landing page is the first page presented to users when they visit the URL to the site. 
 
 ### Cat Pictures Page
+
+This page is where users can share pictures of the cats they see around campus. 
 
 ![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1020.jpg?raw=true)
 ![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1023.jpg?raw=true)
@@ -38,7 +41,6 @@ A live deployment is available at https://meow-mapper.github.io/
 
 
 ## Development History
-
 
 
 
