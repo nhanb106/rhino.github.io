@@ -14,11 +14,19 @@
 
 ## Overview
 
-
+A website to track the stray cats on UH Manoa's campus in order to help provide them with the veterinary care and any other assistance they need. 
 
 
 ## Deployment
 
 A live deployment is available at https://meow-mapper.github.io/
+
+
+## Landing Page
+
+
+# Cat Pictures Page
+
+
 
 
