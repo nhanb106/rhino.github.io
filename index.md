@@ -27,6 +27,7 @@ A live deployment is available at https://meow-mapper.github.io/
 
 ## Cat Pictures Page
 
-
+![alt text](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/IMG_1020.jpg?raw=true)
+![alt text](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/IMG_1023.jpg?raw=true)
 
 
