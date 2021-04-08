@@ -47,11 +47,16 @@ We would love to hear from our users! Please feel free to contact us with ideas 
 
 ## Developer Guide
 
+TBA after the project is finished.
+
 
 ## Development History
+
+TBA as the project is developed.
 
 
 ## Contact Us
 
+The developers of this project are Kha Bui, Nhan Bui, Germaine Juan, and Maegan Chow.
 
 
