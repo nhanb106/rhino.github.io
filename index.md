@@ -24,6 +24,8 @@ A live deployment is available at https://meow-mapper.github.io/
 
 The landing page is the first page presented to users when they visit the URL to the site. 
 
+<img class="ui medium left floated image" src="../images/landing.png">    
+
 ### Cat Pictures Page
 
 This page is where users can share pictures of the cats they see around campus. 
