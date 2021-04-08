@@ -31,6 +31,14 @@ This page is where users can share pictures of the cats they see around campus.
 ![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1020.jpg?raw=true)
 ![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1023.jpg?raw=true)
 
+### Login Page
+
+This is the page a user sees directly after logging in. A personal feed that the user can change based on their specific goals for using the website.
+
+### Spay-and-neuter Page
+
+This is the page that is run in affiliation with the Humane Society with the end goal of less stray cats on campus. 
+
 
 ## Community Feedback
 
