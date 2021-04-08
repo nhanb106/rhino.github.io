@@ -28,8 +28,6 @@ The landing page is the first page presented to users when they visit the URL to
 
 This page is where users can share pictures of the cats they see around campus. 
 
-![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1020.jpg?raw=true)
-![Cat Pic](https://github.com/meow-mapper/meow-mapper.github.io/blob/main/Images/IMG_1023.jpg?raw=true)
 
 ### Login Page
 
