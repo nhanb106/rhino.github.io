@@ -40,6 +40,11 @@ This is the page a user sees directly after logging in. A personal feed that the
 This is the page that is run in affiliation with the Humane Society with the end goal of less stray cats on campus. 
 ![](Images/Neuter.png)
 
+### Snatch-a-cat Page
+
+This is the page that where users can go to choose a cat to adopt. 
+![](Images/Snatch.png)
+
 ## Community Feedback
 
 We would love to hear from our users! Please feel free to contact us with ideas for improvement. 
