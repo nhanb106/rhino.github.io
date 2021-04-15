@@ -38,7 +38,7 @@ This is the page a user sees directly after logging in. A personal feed that the
 ### Spay-and-neuter Page
 
 This is the page that is run in affiliation with the Humane Society with the end goal of less stray cats on campus. 
-![](Images/Spay and Neuter.PNG)
+![](Images/Spay and Neuter.png)
 
 ## Community Feedback
 
