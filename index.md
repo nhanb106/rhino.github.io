@@ -31,6 +31,7 @@ The landing page is the first page presented to users when they visit the URL to
 
 This page is where users can share pictures of the cats they see around campus. 
 
+![](Images/cat-snaps-mockup.png)
 
 ### Login Page
 
