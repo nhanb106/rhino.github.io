@@ -63,7 +63,10 @@ TBA after the project is finished.
 
 ## Development History
 
-TBA as the project is developed.
+Milestone 1: 4/15/2021
+- Website functionality confirmed
+- Mockups for pages finalized
+- Landing page created
 
 
 ## Contact Us
