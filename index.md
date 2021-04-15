@@ -24,6 +24,7 @@ A live deployment is available at http://104.236.115.89/
 
 The landing page is the first page presented to users when they visit the URL to the site. 
 
+![](Images/landing.PNG)
 
 
 ### Cat Pictures Page
