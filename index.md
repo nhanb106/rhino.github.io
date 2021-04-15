@@ -22,7 +22,7 @@ A live deployment is available at http://104.236.115.89/
 
 ### Landing Page
 
-The landing page is the first page presented to users when they visit the URL to the site. 
+The landing page is the first page presented to users when they visit the URL to the site. A navbar with more options will be available on logging in. 
 
 ![](Images/landingNew.PNG)
 
