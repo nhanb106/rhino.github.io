@@ -15,7 +15,7 @@ The goal of this project is to address the many stray cats on UH Manoa's campus.
 
 ## Deployment
 
-A live deployment is available at http://104.236.115.89/
+A live deployment is available at https://meowmapper.com/
 
 
 ## User Guide
