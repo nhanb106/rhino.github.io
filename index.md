@@ -68,11 +68,14 @@ TBA after the project is finished.
 - Website functionality confirmed
 - Mockups for pages finalized
 - Landing page created
-- https://github.com/meow-mapper/meow-mapper/projects/1
 
 [Milestone 2:](https://github.com/meow-mapper/meow-mapper/projects/4) 4/27/2021
+- Create working webpages
+- Implement github actions
+- Implement TestCafe "availability" tests for all pages
 
 [Milestone 3:](https://github.com/meow-mapper/meow-mapper/projects/3) 5/4/2021
+- Get community feedback on our webpage
 
 ## Contact Us
 
