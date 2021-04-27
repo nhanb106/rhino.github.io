@@ -70,7 +70,6 @@ Milestone 1: 4/15/2021
 - Landing page created
 - https://github.com/meow-mapper/meow-mapper/projects/1
 
-<a href="https://github.com/meow-mapper/meow-mapper/projects/2" title="About Me">M2</a>
 Milestone 2: 4/27/2021
 - https://github.com/meow-mapper/meow-mapper/projects/2
 
