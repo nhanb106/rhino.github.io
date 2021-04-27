@@ -99,6 +99,19 @@ The following sections describe the major features of this template.
 
 #### Directory structure
 The top-level directory structure is:
+![](Images/direct.png)
+This structure separates documentation files (such as screenshots) and configuration files (such as the settings files) from the actual Meteor application.
+
+The app/ directory has this structure:
+![](Images/appd.png)
+
+#### Import conventions
+This system adheres to the Meteor guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
+
+#### Application functionality
+The application implements a simple CRUD application for managing “Stuff”, which is a Mongo Collection consisting of a name (String), a quantity (Number), and a condition (one of ‘excellent’, ‘good’, ‘fair’, or ‘poor’).
+
+By default, each user only sees the Stuff that they have created. However, the settings file enables you to define default accounts. If you define a user with the role “admin”, then that user gets access to a special page which lists all the Stuff defined by all users.
 
 ## Development History
 
