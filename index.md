@@ -77,6 +77,29 @@ Once the libraries are installed, you can run the application by invoking the �
 The first time you run the app, it will create some default users and data. Here is the output:
 ![](Images/running2.png)
 
+### Note regarding “bcrypt warning”:
+You will also get the following message when you run this application:
+![](Images/bywarning.png)
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+### Note regarding “MongoError: not master and slaveOk=false”:
+Intermittently, you may see the following error message in the console when the system starts up:
+![](Images/merror1.png)
+While irritating, this message appears to be harmless and possibly related to a race condition between the development instance of Mongo and Meteor. By harmless, I mean that in most cases, the console goes on to display App running at: http://localhost:3000/ and no problems occur during run time.
+
+### Viewing the running app
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in settings.development.json, or else register a new account.
+
+###ESLint
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+![](Images/esl.png)
+
+### Walkthrough
+The following sections describe the major features of this template.
+
+#### Directory structure
+The top-level directory structure is:
+
 ## Development History
 
 [Milestone 1:](https://github.com/meow-mapper/meow-mapper/projects/1) 4/15/2021
