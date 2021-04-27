@@ -12,6 +12,7 @@
 
 The goal of this project is to address the many stray cats on UH Manoa's campus. "Meow Mapper" will allow users to track cats and see which have been fed/provided with veterinary care and which have not. 
 
+![ci-badge](https://github.com/meow-mapper/meow-mapper-deploy/workflows/ci-meow-mapper-deploy/badge.svg)
 
 ## Deployment
 
