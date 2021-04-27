@@ -64,17 +64,15 @@ TBA after the project is finished.
 
 ## Development History
 
-Milestone 1: 4/15/2021
+[Milestone 1:](https://github.com/meow-mapper/meow-mapper/projects/1): 4/15/2021
 - Website functionality confirmed
 - Mockups for pages finalized
 - Landing page created
 - https://github.com/meow-mapper/meow-mapper/projects/1
 
- [Milestone 2:](https://github.com/meow-mapper/meow-mapper/projects/2)Milestone 2: 4/27/2021
-- https://github.com/meow-mapper/meow-mapper/projects/2
+[Milestone 2:](https://github.com/meow-mapper/meow-mapper/projects/4): 4/27/2021
 
-Milestone 3: 5/4/2021
-- https://github.com/meow-mapper/meow-mapper/projects/3
+[Milestone 3:](https://github.com/meow-mapper/meow-mapper/projects/3): 5/4/2021
 
 ## Contact Us
 
