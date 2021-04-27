@@ -99,10 +99,12 @@ The following sections describe the major features of this template.
 
 #### Directory structure
 The top-level directory structure is:
+
 ![](Images/direct.png)
 This structure separates documentation files (such as screenshots) and configuration files (such as the settings files) from the actual Meteor application.
 
 The app/ directory has this structure:
+
 ![](Images/appd.png)
 
 #### Import conventions
