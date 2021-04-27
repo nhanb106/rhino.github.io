@@ -71,6 +71,11 @@ Third,  go to your newly created repository, and click the “Clone or download�
 Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 ![](Images/installing.png)
 
+### Running the system
+Once the libraries are installed, you can run the application by invoking the “start” script in the package.json file:
+![](Images/running1.png)
+The first time you run the app, it will create some default users and data. Here is the output:
+![](Images/running2.png)
 
 ## Development History
 
