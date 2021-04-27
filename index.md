@@ -74,6 +74,8 @@ Milestone 1: 4/15/2021
 Milestone 2: 4/27/2021
 - https://github.com/meow-mapper/meow-mapper/projects/2
 
+Milestone 3: 5/4/2021
+- https://github.com/meow-mapper/meow-mapper/projects/3
 
 ## Contact Us
 
