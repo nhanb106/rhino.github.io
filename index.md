@@ -60,6 +60,8 @@ We would love to hear from our users! Please feel free to contact us with ideas 
 
 ## Developer Guide
 
+### Installing 
+
 First, install [Meteor](https://www.meteor.com/developers/install).
 
 Second, go to [https://github.com/meow-mapper/meow-mapper-deploy](https://github.com/meow-mapper/meow-mapper-deploy) and download the masters.
@@ -67,7 +69,7 @@ Second, go to [https://github.com/meow-mapper/meow-mapper-deploy](https://github
 Third,  go to your newly created repository, and click the “Clone or download” button to download your new GitHub repo to your local file system. Using GitHub Desktop is a great choice if you use MacOS or Windows.
 
 Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
-
+![](Images/installing.png)
 
 
 ## Development History
