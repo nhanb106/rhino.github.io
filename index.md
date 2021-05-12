@@ -58,6 +58,11 @@ Users can provide donations to contribute to feral cat feeding stations around c
 
 We would love to hear from our users! Please feel free to contact us with ideas for improvement. 
 
+"The concept of this website is very nice and good for the community. The formatting of the sub headings are perfect with the right order. The formatting of the pictures and the description was excellent and fun to look at. I would definitely click on this website again." -Sara Vu
+
+"Upon my initial impression, I was obsessed with the simple cat themed asthetics portrayed, it's so  cute! The spay and neuter page is a little off to me because it does not fit well with the overall purpose of the website althought it is useful." -Toni Tang
+
+"This website is very cute. I love the idea of knowing where all the cats on campus are. I also really liked the little name cards that each of the cats have, I would like some more descriptions about the cats though. Overall I think it is a good website." -Valerie Eng
 
 ## Developer Guide
 
