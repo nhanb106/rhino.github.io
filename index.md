@@ -64,7 +64,7 @@ We would love to hear from our users! Please feel free to contact us with ideas 
 
 "This website is very cute. I love the idea of knowing where all the cats on campus are. I also really liked the little name cards that each of the cats have, I would like some more descriptions about the cats though. Overall I think it is a good website." -Valerie Eng
 
-"The minimalistic design is very nice to look at but the website is lacking a little bit of functionality," - Angelica 
+"The minimalistic design is very nice to look at but the website is lacking a little bit of functionality," - Angelica Fajardo
 
 ## Developer Guide
 
