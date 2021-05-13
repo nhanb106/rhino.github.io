@@ -75,7 +75,7 @@ This page is where users can share pictures of the cats they see around campus.
 
 ### Snatch-a-cat Page
 
-This is the page that where users can go to choose a cat to adopt. For this page the admin can add new cats that are up for adoption. 
+This is the page that where users can go to choose a cat to adopt. For this page, the admin can add new cats that are up for adoption as well as approve requests. 
 ![](Images/adminadoption.png)
 
 
