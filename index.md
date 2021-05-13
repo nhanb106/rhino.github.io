@@ -56,6 +56,28 @@ Users can provide donations to contribute to feral cat feeding stations around c
 
 ## Admin
 
+### Admin Landing Page
+
+The landing page is the first page presented to users when they visit the URL to the site. A navbar with more options will be available on logging in. 
+
+![](Images/landing.png)
+### Login Page
+
+This is the page a user sees directly after logging in. A personal feed that the user can change based on their specific goals for using the website.
+![](Images/adminlanding.png)
+
+### Cat Pictures Page
+
+This page is where users can share pictures of the cats they see around campus. 
+
+![](Images/catsnaps.png)
+
+
+### Snatch-a-cat Page
+
+This is the page that where users can go to choose a cat to adopt. For this page the admin can add new cats that are up for adoption. 
+![](Images/adminadoption.png)
+
 
 ## Community Feedback
 
