@@ -49,12 +49,13 @@ This is the page that where users can go to choose a cat to adopt.
 ![](Images/snatch1.png)
 
 ![](Images/snatch2.png)
-## Donations
+### Donations
 
 Users can provide donations to contribute to feral cat feeding stations around campus.
 ![](Images/donations.png)
 
-##Admin 
+## Admin
+
 
 ## Community Feedback
 
