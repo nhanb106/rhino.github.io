@@ -70,7 +70,7 @@ This is the page a user sees directly after logging in. A personal feed that the
 
 This page is where users can share pictures of the cats they see around campus. 
 
-![](Images/catsnaps.png)
+![](Images/catsnap.png)
 
 
 ### Snatch-a-cat Page
