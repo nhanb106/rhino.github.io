@@ -35,8 +35,11 @@ This is the page a user sees directly after logging in. A personal feed that the
 
 This page is where users can share pictures of the cats they see around campus. 
 
-![](Images/catsnaps.png)
+![](Images/catsnap.png)
 
+This is the page the user woulc go to after they click on the "Snap a Cat" button
+
+![](Images/catsnap1.png)
 
 ### Spay-and-neuter Page
 
