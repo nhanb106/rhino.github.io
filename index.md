@@ -66,6 +66,8 @@ We would love to hear from our users! Please feel free to contact us with ideas 
 
 "The minimalistic design is very nice to look at but the website is lacking a little bit of functionality," - Angelica Fajardo
 
+"Very nice." - Darin Yukumoto
+
 ## Developer Guide
 
 ### Installing 
