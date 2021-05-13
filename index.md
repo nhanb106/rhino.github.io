@@ -57,6 +57,16 @@ This is the page that where users can go to choose a cat to adopt.
 Users can provide donations to contribute to feral cat feeding stations around campus.
 ![](Images/donations.png)
 
+
+### Volunteer
+
+Users can volunteer time to help refill cat feedings, catch cats for adoptions, or neuter cats.
+![](Images/volunteer.png)
+
+
+This is what the user see after the users click on the "Volunteer Now" button
+![](Images/volunteer1.png)
+
 ## Admin
 
 ### Admin Landing Page
