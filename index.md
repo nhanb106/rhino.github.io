@@ -1,12 +1,42 @@
+# Welcome to Rhinocerous
+The animals of the zoo are sick of being locked. They are starting a revolutio and leading the charge are the rhinocerous. Rhinocerous is an adventure game following a rhinocerous's adventure to breaking free starting first with the zoo and then the world!
+
+# Team Members
+
+Nhan Bui (ISC)
+
+Nhan Bui created the spawners for the enemies and obstacles, the charging UI and stamina system, worked on the camera angle, and the menu and how to play screens. 
+
+Shengtong Jin (ICS)
+
+
+Su Lao (ICS)
+
 ## Table of Contents
 
-* [Goal of this Project](#goal-of-this-project)
-* [Deployment](#deployment)
+* [Rhinocerous Demo and Trailer](#rhinocerous-demo-and-trailer)
+* [Game Engine](#game-engine)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
+
+## Rhinocerous Demo and Trailer
+
+If you would like to view a demo of our game, click here(https: link here ).
+If you would like to view a trailer of our game, click here(https: link here ).
+
+
+## Game Engine
+
+The game is created entirely using Unity and all asets are from the Unity store. The user can use WD to move backward and forward, the mouse to control forward direction, Q to charge, and AD to control the direction of charging. 
+
+Rhinocerous in-game shots:
+![](Images/frhino.png)
+
+
+
 
 ## Goal of the Project
 
