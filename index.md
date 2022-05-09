@@ -30,9 +30,13 @@ If you would like to view a trailer of our game, click here(https: link here ).
 
 ## Game Engine
 
-The game is created entirely using Unity and all asets are from the Unity store. The user can use WD to move backward and forward, the mouse to control forward direction, Q to charge, and AD to control the direction of charging. 
+The game is created entirely using Unity and all asets are from the Unity store. The player can use WD to move backward and forward, the mouse to control forward direction, Q to charge, and AD to control the direction of charging. 
 
 Rhinocerous in-game shots:
+Game-view: This is the view of the rhino that the players see.
+![](Images/rrhino.png)
+
+Front-view: This is what the rhino looks like from the front
 ![](Images/frhino.png)
 
 
